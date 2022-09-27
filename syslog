@@ -1,0 +1,1288 @@
+Sep 27 10:22:15 linti-Vostro-1520 rsyslogd: [origin software="rsyslogd" swVersion="8.2001.0" x-pid="624" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+Sep 27 10:22:15 linti-Vostro-1520 systemd[1]: logrotate.service: Succeeded.
+Sep 27 10:22:15 linti-Vostro-1520 systemd[1]: Finished Rotate log files.
+Sep 27 10:22:16 linti-Vostro-1520 snapd[625]: AppArmor status: apparmor is enabled and all features are available
+Sep 27 10:22:17 linti-Vostro-1520 dbus-daemon[608]: [system] AppArmor D-Bus mediation is enabled
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started Login Service.
+Sep 27 10:22:17 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.systemd1'
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started Make remote CUPS printers available locally.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started Bluetooth service.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Reached target Bluetooth.
+Sep 27 10:22:17 linti-Vostro-1520 wpa_supplicant[631]: Successfully initialized wpa_supplicant
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started WPA supplicant.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: Successfully called chroot().
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: Successfully dropped remaining capabilities.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started Thermal Daemon Service.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started Switcheroo Control Proxy service.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Condition check resulted in Manage Sound Card State (restore and store) being skipped.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Starting Save/Restore Sound Card State...
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Finished Save/Restore Sound Card State.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Reached target Sound Card.
+Sep 27 10:22:17 linti-Vostro-1520 thermald[628]: NO RAPL sysfs present 
+Sep 27 10:22:17 linti-Vostro-1520 thermald[628]: 13 CPUID levels; family:model:stepping 0x6:17:a (6:23:10)
+Sep 27 10:22:17 linti-Vostro-1520 thermald[628]:  Need Linux PowerCap sysfs 
+Sep 27 10:22:17 linti-Vostro-1520 thermald[628]: Unsupported cpu model or platform
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: No service file found in /etc/avahi/services.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: Joining mDNS multicast group on interface lo.IPv6 with address ::1.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: New relevant interface lo.IPv6 for mDNS.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: New relevant interface lo.IPv4 for mDNS.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: Network interface enumeration completed.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: Registering new address record for ::1 on lo.*.
+Sep 27 10:22:17 linti-Vostro-1520 avahi-daemon[604]: Registering new address record for 127.0.0.1 on lo.IPv4.
+Sep 27 10:22:17 linti-Vostro-1520 bluetoothd[605]: Starting SDP server
+Sep 27 10:22:17 linti-Vostro-1520 polkitd[622]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Started Authorization Manager.
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: Starting Modem Manager...
+Sep 27 10:22:17 linti-Vostro-1520 systemd[1]: thermald.service: Succeeded.
+Sep 27 10:22:18 linti-Vostro-1520 avahi-daemon[604]: Server startup complete. Host name is linti-Vostro-1520.local. Local service cookie is 2659824130.
+Sep 27 10:22:18 linti-Vostro-1520 ModemManager[764]: <info>  ModemManager (version 1.18.6) starting in system bus...
+Sep 27 10:22:18 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284938.4840] NetworkManager (version 1.22.10) is starting... (for the first time)
+Sep 27 10:22:18 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284938.4841] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Started Network Manager.
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Reached target Network.
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Starting OpenVPN service...
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Condition check resulted in fast remote file copy program daemon being skipped.
+Sep 27 10:22:18 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284938.5948] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Starting Permit User Sessions...
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Condition check resulted in Ubuntu Advantage GCP Auto Attach Daemon being skipped.
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Started Unattended Upgrades Shutdown.
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Finished Permit User Sessions.
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Starting GNOME Display Manager...
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Starting Hold until boot process finishes up...
+Sep 27 10:22:18 linti-Vostro-1520 kernel: [   43.259714] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Sep 27 10:22:18 linti-Vostro-1520 kernel: [   43.259720] Bluetooth: BNEP filters: protocol multicast
+Sep 27 10:22:18 linti-Vostro-1520 kernel: [   43.259730] Bluetooth: BNEP socket layer initialized
+Sep 27 10:22:18 linti-Vostro-1520 systemd[1]: Finished OpenVPN service.
+Sep 27 10:22:18 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.5' (uid=0 pid=605 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Sep 27 10:22:18 linti-Vostro-1520 bluetoothd[605]: Bluetooth management interface 1.21 initialized
+Sep 27 10:22:18 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284938.9599] manager[0x56195f15f000]: monitoring kernel firmware directory '/lib/firmware'.
+Sep 27 10:22:18 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284938.9600] monitoring ifupdown state file '/run/network/ifstate'.
+Sep 27 10:22:19 linti-Vostro-1520 systemd[1]: Starting Hostname Service...
+Sep 27 10:22:19 linti-Vostro-1520 kernel: [   43.936527] kauditd_printk_skb: 27 callbacks suppressed
+Sep 27 10:22:19 linti-Vostro-1520 kernel: [   43.936532] audit: type=1400 audit(1664284939.559:39): apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=759 comm="cups-browsed" capability=23  capname="sys_nice"
+Sep 27 10:22:19 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep 27 10:22:19 linti-Vostro-1520 systemd[1]: Started Hostname Service.
+Sep 27 10:22:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284940.1345] hostname: hostname: using hostnamed
+Sep 27 10:22:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284940.1345] hostname: hostname changed from (none) to "linti-Vostro-1520"
+Sep 27 10:22:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284940.1349] dns-mgr[0x56195f14b290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Sep 27 10:22:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284940.1364] rfkill0: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1c.2/0000:0e:00.0/ieee80211/phy0/rfkill0) (driver wl)
+Sep 27 10:22:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284940.1370] rfkill1: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1c.2/0000:0e:00.0/net/wlp14s0/rfkill1) (driver wl)
+Sep 27 10:22:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284940.1380] manager[0x56195f15f000]: rfkill: Wi-Fi hardware radio set enabled
+Sep 27 10:22:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284940.1380] manager[0x56195f15f000]: rfkill: WWAN hardware radio set enabled
+Sep 27 10:22:20 linti-Vostro-1520 snapd[625]: AppArmor status: apparmor is enabled and all features are available
+Sep 27 10:22:21 linti-Vostro-1520 snapd[625]: overlord.go:263: Acquiring state lock file
+Sep 27 10:22:21 linti-Vostro-1520 snapd[625]: overlord.go:268: Acquired state lock file
+Sep 27 10:22:21 linti-Vostro-1520 udisksd[630]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Sep 27 10:22:22 linti-Vostro-1520 accounts-daemon[600]: started daemon version 0.6.55
+Sep 27 10:22:22 linti-Vostro-1520 systemd[1]: Started Accounts Service.
+Sep 27 10:22:22 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284942.3415] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Sep 27 10:22:22 linti-Vostro-1520 systemd[1]: Started GNOME Display Manager.
+Sep 27 10:22:22 linti-Vostro-1520 systemd[1]: Received SIGRTMIN+21 from PID 316 (plymouthd).
+Sep 27 10:22:22 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284942.7274] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Sep 27 10:22:23 linti-Vostro-1520 udisksd[630]: Failed to load the 'mdraid' libblockdev plugin
+Sep 27 10:22:23 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284943.3420] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Sep 27 10:22:23 linti-Vostro-1520 snapd[625]: daemon.go:247: started snapd/2.57.1 (series 16; classic) ubuntu/20.04 (amd64) linux/5.15.0-46-generic.
+Sep 27 10:22:23 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284943.5313] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Sep 27 10:22:23 linti-Vostro-1520 kernel: [   48.012275] loop15: detected capacity change from 0 to 8
+Sep 27 10:22:23 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284943.7997] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Sep 27 10:22:23 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284943.8002] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Sep 27 10:22:23 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284943.8003] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Sep 27 10:22:23 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284943.8005] manager: Networking is enabled by state file
+Sep 27 10:22:23 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284943.8006] dhcp-init: Using DHCP client 'internal'
+Sep 27 10:22:23 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.15' (uid=0 pid=609 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Sep 27 10:22:23 linti-Vostro-1520 snapd[625]: daemon.go:340: adjusting startup timeout by 1m10s (pessimistic estimate of 30s plus 5s per snap)
+Sep 27 10:22:23 linti-Vostro-1520 systemd[1]: tmp-syscheck\x2dmountpoint\x2d489265387.mount: Succeeded.
+Sep 27 10:22:23 linti-Vostro-1520 systemd[1]: Starting Network Manager Script Dispatcher Service...
+Sep 27 10:22:24 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284944.0503] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Sep 27 10:22:24 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284944.0504] settings: Loaded settings plugin: keyfile (internal)
+Sep 27 10:22:24 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284944.0505] ifupdown: management mode: unmanaged
+Sep 27 10:22:24 linti-Vostro-1520 NetworkManager[609]: <warn>  [1664284944.1036] ifupdown: interfaces file /etc/network/interfaces doesn't exist
+Sep 27 10:22:25 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284945.1275] device (lo): carrier: link connected
+Sep 27 10:22:25 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284945.1279] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Sep 27 10:22:25 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284945.1309] manager: (enp8s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Sep 27 10:22:25 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Sep 27 10:22:25 linti-Vostro-1520 systemd[1]: Started Network Manager Script Dispatcher Service.
+Sep 27 10:22:25 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284945.3930] settings: (enp8s0): created default wired connection 'Conexión cableada 1'
+Sep 27 10:22:25 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284945.4666] device (enp8s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Sep 27 10:22:25 linti-Vostro-1520 kernel: [   50.175814] RTL8211B Gigabit Ethernet r8169-0-800:00: attached PHY driver (mii_bus:phy_addr=r8169-0-800:00, irq=MAC)
+Sep 27 10:22:25 linti-Vostro-1520 kernel: [   50.334625] r8169 0000:08:00.0 enp8s0: Link is Down
+Sep 27 10:22:25 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284945.9672] manager: (wlp14s0): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+Sep 27 10:22:26 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284945.9687] device (wlp14s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Sep 27 10:22:26 linti-Vostro-1520 NetworkManager[609]: <warn>  [1664284946.4990] Error: failed to open /run/network/ifstate
+Sep 27 10:22:26 linti-Vostro-1520 systemd[1]: Started Disk Manager.
+Sep 27 10:22:26 linti-Vostro-1520 udisksd[630]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Sep 27 10:22:26 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284946.7868] supplicant: wpa_supplicant running
+Sep 27 10:22:26 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284946.7869] device (wlp14s0): supplicant interface state: init -> starting
+Sep 27 10:22:27 linti-Vostro-1520 systemd[1]: Started Modem Manager.
+Sep 27 10:22:27 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284947.7294] modem-manager: ModemManager not available
+Sep 27 10:22:27 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284947.8136] modem-manager: ModemManager now available
+Sep 27 10:22:28 linti-Vostro-1520 wpa_supplicant[631]: dbus: fill_dict_with_properties dbus_interface=fi.w1.wpa_supplicant1.Interface.P2PDevice dbus_property=P2PDeviceConfig getter failed
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.1982] sup-iface[0x56195f173100,wlp14s0]: supports 1 scan SSIDs
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.1994] device (wlp14s0): supplicant interface state: starting -> ready
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.1995] device (wlp14s0): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2348] device (enp8s0): carrier: link connected
+Sep 27 10:22:28 linti-Vostro-1520 kernel: [   52.603097] r8169 0000:08:00.0 enp8s0: Link is Up - 1Gbps/Full - flow control off
+Sep 27 10:22:28 linti-Vostro-1520 kernel: [   52.603117] IPv6: ADDRCONF(NETDEV_CHANGE): enp8s0: link becomes ready
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2352] device (enp8s0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2364] policy: auto-activating connection 'Conexión cableada 1' (8157c366-d333-3ae9-aacf-6bc75babb017)
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2372] device (enp8s0): Activation: starting connection 'Conexión cableada 1' (8157c366-d333-3ae9-aacf-6bc75babb017)
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2374] device (enp8s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2394] manager: NetworkManager state is now CONNECTING
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2398] device (enp8s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2410] device (enp8s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Sep 27 10:22:28 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284948.2420] dhcp4 (enp8s0): activation: beginning transaction (timeout in 45 seconds)
+Sep 27 10:22:28 linti-Vostro-1520 avahi-daemon[604]: Joining mDNS multicast group on interface enp8s0.IPv6 with address fe80::394d:a57b:2730:50f6.
+Sep 27 10:22:28 linti-Vostro-1520 avahi-daemon[604]: New relevant interface enp8s0.IPv6 for mDNS.
+Sep 27 10:22:28 linti-Vostro-1520 avahi-daemon[604]: Registering new address record for fe80::394d:a57b:2730:50f6 on enp8s0.*.
+Sep 27 10:22:29 linti-Vostro-1520 systemd[1]: dmesg.service: Succeeded.
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[838]: WARNING: systemd-networkd is not running, output will be incomplete.
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: Traceback (most recent call last):
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:   File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:     self.handle_state(iface_name,
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:   File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:     raise UnknownState(operational_state)
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: UnknownState: n/a
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='enp8s0', type='ether', operational='n/a', administrative='unmanaged'): n/a
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: Traceback (most recent call last):
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:   File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:     self.handle_state(iface_name,
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:   File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:     raise UnknownState(operational_state)
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: UnknownState: n/a
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: ERROR:Unknown state for interface NetworkctlListState(idx=3, name='wlp14s0', type='wlan', operational='n/a', administrative='unmanaged'): n/a
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: Traceback (most recent call last):
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:   File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:     self.handle_state(iface_name,
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:   File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]:     raise UnknownState(operational_state)
+Sep 27 10:22:29 linti-Vostro-1520 networkd-dispatcher[617]: UnknownState: n/a
+Sep 27 10:22:29 linti-Vostro-1520 systemd[1]: Started Dispatcher daemon for systemd-networkd.
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Started Snap Daemon.
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Starting Wait until snapd is fully seeded...
+Sep 27 10:22:30 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.24' (uid=0 pid=625 comm="/usr/lib/snapd/snapd " label="unconfined")
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Starting Time & Date Service...
+Sep 27 10:22:30 linti-Vostro-1520 ModemManager[764]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.1/0000:08:00.0': not supported by any plugin
+Sep 27 10:22:30 linti-Vostro-1520 ModemManager[764]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.2/0000:0e:00.0': not supported by any plugin
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Created slice User Slice of UID 1000.
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Starting User Runtime Directory /run/user/1000...
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Finished User Runtime Directory /run/user/1000.
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Starting User Manager for UID 1000...
+Sep 27 10:22:30 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Started Time & Date Service.
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Finished Wait until snapd is fully seeded.
+Sep 27 10:22:30 linti-Vostro-1520 systemd[1]: Condition check resulted in Auto import assertions from block devices being skipped.
+Sep 27 10:22:32 linti-Vostro-1520 systemd[865]: Started Pending report trigger for Ubuntu Report.
+Sep 27 10:22:34 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.31' (uid=1000 pid=873 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Reached target Paths.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Reached target Timers.
+Sep 27 10:22:34 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Starting D-Bus User Message Bus Socket.
+Sep 27 10:22:34 linti-Vostro-1520 rtkit-daemon[882]: Successfully called chroot.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Listening on GnuPG network certificate management daemon.
+Sep 27 10:22:34 linti-Vostro-1520 rtkit-daemon[882]: Successfully dropped privileges.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Sep 27 10:22:34 linti-Vostro-1520 rtkit-daemon[882]: Successfully limited resources.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Sep 27 10:22:34 linti-Vostro-1520 rtkit-daemon[882]: Running.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Sep 27 10:22:34 linti-Vostro-1520 rtkit-daemon[882]: Watchdog thread running.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Listening on GnuPG cryptographic agent and passphrase cache.
+Sep 27 10:22:34 linti-Vostro-1520 rtkit-daemon[882]: Canary thread running.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Listening on debconf communication socket.
+Sep 27 10:22:34 linti-Vostro-1520 rtkit-daemon[882]: Successfully made thread 873 of process 873 owned by '1000' high priority at nice level -11.
+Sep 27 10:22:34 linti-Vostro-1520 systemd[865]: Listening on Sound System.
+Sep 27 10:22:35 linti-Vostro-1520 rtkit-daemon[882]: Supervising 1 threads of 1 processes of 1 users.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Listening on REST API socket for snapd user session agent.
+Sep 27 10:22:35 linti-Vostro-1520 avahi-daemon[604]: Joining mDNS multicast group on interface enp8s0.IPv4 with address 163.10.10.123.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Listening on D-Bus User Message Bus Socket.
+Sep 27 10:22:35 linti-Vostro-1520 avahi-daemon[604]: New relevant interface enp8s0.IPv4 for mDNS.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Reached target Sockets.
+Sep 27 10:22:35 linti-Vostro-1520 avahi-daemon[604]: Registering new address record for 163.10.10.123 on enp8s0.IPv4.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Reached target Basic System.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[1]: Started User Manager for UID 1000.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[1]: Started Session 1 of user linti.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Starting Sound Service...
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Starting Tracker metadata extractor...
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Starting Tracker file system data miner...
+Sep 27 10:22:35 linti-Vostro-1520 systemd[1]: Starting Online ext4 Metadata Check for All Filesystems...
+Sep 27 10:22:35 linti-Vostro-1520 systemd[1]: e2scrub_all.service: Succeeded.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[1]: Finished Online ext4 Metadata Check for All Filesystems.
+Sep 27 10:22:35 linti-Vostro-1520 systemd[1]: Starting RealtimeKit Scheduling Policy Service...
+Sep 27 10:22:35 linti-Vostro-1520 systemd[1]: Started RealtimeKit Scheduling Policy Service.
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6266] dhcp4 (enp8s0): option dhcp_lease_time      => '60000'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6267] dhcp4 (enp8s0): option domain_name          => 'linti.unlp.edu.ar info.unlp.edu.ar redes'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6267] dhcp4 (enp8s0): option domain_name_servers  => '163.10.5.78'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6267] dhcp4 (enp8s0): option expiry               => '1664344953'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6268] dhcp4 (enp8s0): option ip_address           => '163.10.10.123'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6268] dhcp4 (enp8s0): option next_server          => '163.10.20.9'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6268] dhcp4 (enp8s0): option requested_broadcast_address => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6268] dhcp4 (enp8s0): option requested_domain_name => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6268] dhcp4 (enp8s0): option requested_domain_name_servers => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6269] dhcp4 (enp8s0): option requested_domain_search => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6269] dhcp4 (enp8s0): option requested_host_name  => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6269] dhcp4 (enp8s0): option requested_interface_mtu => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6269] dhcp4 (enp8s0): option requested_ms_classless_static_routes => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6269] dhcp4 (enp8s0): option requested_nis_domain => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6270] dhcp4 (enp8s0): option requested_nis_servers => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6270] dhcp4 (enp8s0): option requested_ntp_servers => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6270] dhcp4 (enp8s0): option requested_rfc3442_classless_static_routes => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6270] dhcp4 (enp8s0): option requested_root_path  => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6271] dhcp4 (enp8s0): option requested_routers    => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6271] dhcp4 (enp8s0): option requested_static_routes => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6271] dhcp4 (enp8s0): option requested_subnet_mask => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6271] dhcp4 (enp8s0): option requested_time_offset => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6271] dhcp4 (enp8s0): option requested_wpad       => '1'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6272] dhcp4 (enp8s0): option routers              => '163.10.10.65'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6272] dhcp4 (enp8s0): option subnet_mask          => '255.255.255.192'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6272] dhcp4 (enp8s0): option wpad                 => '#012'
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6272] dhcp4 (enp8s0): state changed unknown -> bound
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6288] device (enp8s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6497] device (enp8s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6500] device (enp8s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6507] manager: NetworkManager state is now CONNECTED_LOCAL
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6521] manager: NetworkManager state is now CONNECTED_SITE
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6522] policy: set 'Conexión cableada 1' (enp8s0) as default for IPv4 routing and DNS
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6530] device (enp8s0): Activation: successful, device activated.
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284954.6540] manager: startup complete
+Sep 27 10:22:35 linti-Vostro-1520 tracker-miner-f[875]: Set scheduler policy to SCHED_IDLE
+Sep 27 10:22:35 linti-Vostro-1520 tracker-miner-f[875]: Setting priority nice level to 19
+Sep 27 10:22:35 linti-Vostro-1520 tracker-extract[874]: Set scheduler policy to SCHED_IDLE
+Sep 27 10:22:35 linti-Vostro-1520 tracker-extract[874]: Setting priority nice level to 19
+Sep 27 10:22:35 linti-Vostro-1520 systemd[865]: Started D-Bus User Message Bus.
+Sep 27 10:22:35 linti-Vostro-1520 NetworkManager[609]: <info>  [1664284955.9987] manager: NetworkManager state is now CONNECTED_GLOBAL
+Sep 27 10:22:36 linti-Vostro-1520 systemd[1]: systemd-fsckd.service: Succeeded.
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (--) Log file renamed from "/home/linti/.local/share/xorg/Xorg.pid-888.log" to "/home/linti/.local/share/xorg/Xorg.0.log"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: X.Org X Server 1.20.13
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: X Protocol Version 11, Revision 0
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: Build Operating System: linux Ubuntu
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: Current Operating System: Linux linti-Vostro-1520 5.15.0-46-generic #49~20.04.1-Ubuntu SMP Thu Aug 4 19:15:44 UTC 2022 x86_64
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: Kernel command line: BOOT_IMAGE=/boot/vmlinuz-5.15.0-46-generic root=UUID=cff70b03-ab96-4bfb-bfd3-e837a25b290e ro quiet splash vt.handoff=7
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: Build Date: 06 July 2022  01:53:24PM
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: xorg-server 2:1.20.13-1ubuntu1~20.04.3 (For technical support please see http://www.ubuntu.com/support)
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: Current version of pixman: 0.38.4
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Before reporting problems, check http://wiki.x.org
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011to make sure that you have the latest version.
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: Markers: (--) probed, (**) from config file, (==) default setting,
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011(++) from command line, (!!) notice, (II) informational,
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Log file: "/home/linti/.local/share/xorg/Xorg.0.log", Time: Tue Sep 27 10:22:36 2022
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Using system config directory "/usr/share/X11/xorg.conf.d"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) No Layout section.  Using the first Screen section.
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) No screen section available. Using defaults.
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) |-->Screen "Default Screen Section" (0)
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) |   |-->Monitor "<default monitor>"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) No monitor specified for screen "Default Screen Section".
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Using a default monitor configuration.
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Automatically adding devices
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Automatically enabling devices
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Automatically adding GPU devices
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Automatically binding GPU devices
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Max clients allowed: 256, resource mask: 0x1fffff
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (WW) The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Entry deleted from font path.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (WW) The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Entry deleted from font path.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (WW) The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Entry deleted from font path.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (WW) The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Entry deleted from font path.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (WW) The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Entry deleted from font path.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) FontPath set to:
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011/usr/share/fonts/X11/misc,
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011/usr/share/fonts/X11/Type1,
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011built-ins
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) ModulePath set to "/usr/lib/xorg/modules"
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) The server relies on udev to provide the list of input devices.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011If no devices become available, reconfigure udev or disable AutoAddDevices.
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loader magic: 0x56333d3bc020
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module ABI versions:
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011X.Org ANSI C Emulation: 0.4
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011X.Org Video Driver: 24.1
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011X.Org XInput driver : 24.1
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011X.Org Server Extension : 10.0
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (++) using VT number 2
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: took control of session /org/freedesktop/login1/session/_31
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) xfree86: Adding drm device (/dev/dri/card0)
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (--) PCI:*(0@0:2:0) 8086:2a42:1028:02bc rev 7, Mem @ 0xf6400000/4194304, 0xd0000000/268435456, I/O @ 0x00001800/8, BIOS @ 0x????????/131072
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (--) PCI: (0@0:2:1) 8086:2a43:1028:02bc rev 7, Mem @ 0xf6100000/1048576
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "glx"
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/extensions/libglx.so
+Sep 27 10:22:37 linti-Vostro-1520 systemd[1]: man-db.service: Succeeded.
+Sep 27 10:22:37 linti-Vostro-1520 systemd[1]: Finished Daily man-db regeneration.
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.ColorManager' unit='colord.service' requested by ':1.7' (uid=0 pid=710 comm="/usr/sbin/cupsd -l " label="/usr/sbin/cupsd (enforce)")
+Sep 27 10:22:37 linti-Vostro-1520 systemd[1]: Starting Manage, Install and Generate Color Profiles...
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] AppArmor D-Bus mediation is enabled
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module glx: vendor="X.Org Foundation"
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.13, module version = 1.0.0
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org Server Extension, version 10.0
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Matched modesetting as autoconfigured driver 0
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Matched fbdev as autoconfigured driver 1
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Matched vesa as autoconfigured driver 2
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) Assigned the driver to the xf86ConfigLayout
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "modesetting"
+Sep 27 10:22:37 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:34 linti-Vostro-1520 systemd-timesyncd[567]: Initial synchronization to time server 185.125.190.58:123 (ntp.ubuntu.com).
+Sep 27 10:22:36 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+Sep 27 10:22:36 linti-Vostro-1520 systemd[865]: Starting Virtual filesystem service...
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module modesetting: vendor="X.Org Foundation"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.13, module version = 1.20.13
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Module class: X.Org Video Driver
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org Video Driver, version 24.1
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "fbdev"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module fbdev: vendor="X.Org Foundation"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.1, module version = 0.5.0
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Module class: X.Org Video Driver
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org Video Driver, version 24.0
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "vesa"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module vesa: vendor="X.Org Foundation"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.4, module version = 2.4.0
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Module class: X.Org Video Driver
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org Video Driver, version 24.0
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modesetting: Driver for Modesetting Kernel Drivers: kms
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) FBDEV: driver for framebuffer: fbdev
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) VESA: driver for VESA chipsets: vesa
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: xf86EnableIOPorts: failed to set IOPL for I/O (Operation not permitted)
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): using drv /dev/dri/card0
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (WW) Falling back to old probe method for fbdev
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading sub module "fbdevhw"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "fbdevhw"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/libfbdevhw.so
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module fbdevhw: vendor="X.Org Foundation"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.13, module version = 0.0.2
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org Video Driver, version 24.1
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (EE) open /dev/fb0: Permission denied
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Creating default Display subsection in Screen section
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011"Default Screen Section" for depth/fbbpp 24/32
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): Depth 24, (==) framebuffer bpp 32
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): RGB weight 888
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): Default visual is TrueColor
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading sub module "glamoregl"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "glamoregl"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/libglamoregl.so
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module glamoregl: vendor="X.Org Foundation"
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.13, module version = 1.0.1
+Sep 27 10:22:36 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+Sep 27 10:22:36 linti-Vostro-1520 systemd[1]: Started Manage, Install and Generate Color Profiles.
+Sep 27 10:22:36 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gtk.vfs.Daemon'
+Sep 27 10:22:36 linti-Vostro-1520 systemd[865]: Started Virtual filesystem service.
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:37 linti-Vostro-1520 systemd[865]: Starting Virtual filesystem service - disk device monitor...
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Sep 27 10:22:37 linti-Vostro-1520 systemd[865]: Started Virtual filesystem service - disk device monitor.
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:37 linti-Vostro-1520 systemd[865]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+Sep 27 10:22:37 linti-Vostro-1520 rtkit-daemon[882]: Supervising 1 threads of 1 processes of 1 users.
+Sep 27 10:22:37 linti-Vostro-1520 rtkit-daemon[882]: Successfully made thread 953 of process 873 owned by '1000' RT at priority 5.
+Sep 27 10:22:37 linti-Vostro-1520 rtkit-daemon[882]: Supervising 2 threads of 1 processes of 1 users.
+Sep 27 10:22:37 linti-Vostro-1520 rtkit-daemon[882]: Supervising 2 threads of 1 processes of 1 users.
+Sep 27 10:22:37 linti-Vostro-1520 rtkit-daemon[882]: Successfully made thread 954 of process 873 owned by '1000' RT at priority 5.
+Sep 27 10:22:37 linti-Vostro-1520 rtkit-daemon[882]: Supervising 3 threads of 1 processes of 1 users.
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+Sep 27 10:22:37 linti-Vostro-1520 systemd[865]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+Sep 27 10:22:37 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:37 linti-Vostro-1520 systemd[865]: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+Sep 27 10:22:38 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.OnlineAccounts' requested by ':1.8' (uid=1000 pid=958 comm="/usr/libexec/gvfs-goa-volume-monitor " label="unconfined")
+Sep 27 10:22:39 linti-Vostro-1520 colord[913]: failed to get session [pid 710]: No hay datos disponibles
+Sep 27 10:22:40 linti-Vostro-1520 colord[913]: failed to get session [pid 710]: No hay datos disponibles
+Sep 27 10:22:40 linti-Vostro-1520 systemd[865]: Started Sound Service.
+Sep 27 10:22:40 linti-Vostro-1520 bluetoothd[605]: Endpoint registered: sender=:1.42 path=/MediaEndpoint/A2DPSink/sbc
+Sep 27 10:22:40 linti-Vostro-1520 bluetoothd[605]: Endpoint registered: sender=:1.42 path=/MediaEndpoint/A2DPSource/sbc
+Sep 27 10:22:40 linti-Vostro-1520 kernel: [   67.757202] Bluetooth: RFCOMM TTY layer initialized
+Sep 27 10:22:40 linti-Vostro-1520 kernel: [   67.757218] Bluetooth: RFCOMM socket layer initialized
+Sep 27 10:22:40 linti-Vostro-1520 kernel: [   67.757228] Bluetooth: RFCOMM ver 1.11
+Sep 27 10:22:42 linti-Vostro-1520 snapd[625]: storehelpers.go:748: cannot refresh: snap has no updates available: "bare", "core18", "core20", "gnome-3-34-1804", "gnome-3-38-2004", "gtk-common-themes"
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): glamor X acceleration enabled on Mesa DRI Mobile Intel® GM45 Express Chipset (CTG)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): glamor initialized
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Output LVDS-1 has no monitor section
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Output VGA-1 has no monitor section
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Output DP-1 has no monitor section
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): EDID for output LVDS-1
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Manufacturer: AUO  Model: 2377  Serial#: 0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Year: 2009  Week: 1
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): EDID Version: 1.3
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Digital Display Input
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Max Image Size [cm]: horiz.: 33  vert.: 21
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Gamma: 2.20
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): No DPMS capabilities specified
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Supported color encodings: RGB 4:4:4 YCrCb 4:4:4
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): First detailed timing is preferred mode
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): redX: 0.590 redY: 0.345   greenX: 0.315 greenY: 0.555
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): blueX: 0.155 blueY: 0.155   whiteX: 0.313 whiteY: 0.329
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Manufacturer's mask: 0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Supported detailed timing:
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): clock: 108.0 MHz   Image Size:  331 x 207 mm
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): h_active: 1440  h_sync: 1504  h_sync_end 1536 h_blank_end 1970 h_border: 0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): v_active: 900  v_sync: 903  v_sync_end 906 v_blanking: 912 v_border: 0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Supported detailed timing:
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): clock: 108.0 MHz   Image Size:  331 x 207 mm
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): h_active: 1440  h_sync: 1504  h_sync_end 1536 h_blank_end 1970 h_border: 0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): v_active: 900  v_sync: 903  v_sync_end 906 v_blanking: 912 v_border: 0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0):  T749J�B154PW2
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Unknown vendor-specific block 0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): EDID (in hex):
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #01100ffffffffffff0006af772300000000
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #01101130103902115780a1cf59758508e27
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #01127505400000001010101010101010101
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #011010101010101302aa01252840c304020
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #01133004bcf1000001a302aa01252840c30
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #011402033004bcf1000001a000000fe0054
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #0113734394a804231353450573200000000
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): #01100000000000000000002010a202000cb
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Printing probed modes for output LVDS-1
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1440x900"x60.1  108.00  1440 1504 1536 1970  900 903 906 912 +hsync -vsync (54.8 kHz eP)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1440x900"x59.9  106.50  1440 1520 1672 1904  900 903 909 934 -hsync +vsync (55.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1400x900"x60.0  103.50  1400 1480 1624 1848  900 903 913 934 -hsync +vsync (56.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1400x900"x59.9   86.50  1400 1448 1480 1560  900 903 913 926 +hsync -vsync (55.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1440x810"x120.0  198.12  1440 1548 1704 1968  810 811 814 839 doublescan -hsync +vsync (100.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1440x810"x119.9  151.88  1440 1464 1480 1520  810 811 814 833 doublescan +hsync -vsync (99.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1368x768"x59.9   85.25  1368 1440 1576 1784  768 771 781 798 -hsync +vsync (47.8 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1368x768"x59.9   72.25  1368 1416 1448 1528  768 771 781 790 +hsync -vsync (47.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1360x768"x59.8   84.75  1360 1432 1568 1776  768 771 781 798 -hsync +vsync (47.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1360x768"x60.0   72.00  1360 1408 1440 1520  768 771 781 790 +hsync -vsync (47.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x800"x120.0  174.25  1280 1380 1516 1752  800 801 804 829 doublescan -hsync +vsync (99.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x800"x119.9  134.25  1280 1304 1320 1360  800 801 804 823 doublescan +hsync -vsync (98.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x800"x59.8   83.50  1280 1352 1480 1680  800 803 809 831 -hsync +vsync (49.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x800"x59.9   71.00  1280 1328 1360 1440  800 803 809 823 +hsync -vsync (49.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1152x864"x60.0   81.62  1152 1216 1336 1520  864 865 868 895 -hsync +vsync (53.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x720"x120.0  156.12  1280 1376 1512 1744  720 721 724 746 doublescan -hsync +vsync (89.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x720"x120.0  120.75  1280 1304 1320 1360  720 721 724 740 doublescan +hsync -vsync (88.8 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x720"x59.9   74.50  1280 1344 1472 1664  720 723 728 748 -hsync +vsync (44.8 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1280x720"x59.7   63.75  1280 1328 1360 1440  720 723 728 741 +hsync -vsync (44.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1024x768"x120.1  133.47  1024 1100 1212 1400  768 768 770 794 doublescan -hsync +vsync (95.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "960x720"x120.0  117.00  960 1024 1128 1300  720 720 722 750 doublescan -hsync +vsync (90.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "928x696"x120.1  109.15  928 976 1088 1264  696 696 698 719 doublescan -hsync +vsync (86.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "896x672"x120.0  102.40  896 960 1060 1224  672 672 674 697 doublescan -hsync +vsync (83.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1024x576"x119.9   98.50  1024 1092 1200 1376  576 577 580 597 doublescan -hsync +vsync (71.6 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1024x576"x119.9   78.38  1024 1048 1064 1104  576 577 580 592 doublescan +hsync -vsync (71.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1024x576"x59.9   46.50  1024 1064 1160 1296  576 579 584 599 -hsync +vsync (35.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1024x576"x59.8   42.00  1024 1072 1104 1184  576 579 584 593 +hsync -vsync (35.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "960x600"x119.9   96.62  960 1028 1128 1296  600 601 604 622 doublescan -hsync +vsync (74.6 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "960x600"x120.0   77.00  960 984 1000 1040  600 601 604 617 doublescan +hsync -vsync (74.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "960x540"x119.9   86.50  960 1024 1124 1288  540 541 544 560 doublescan -hsync +vsync (67.2 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "960x540"x120.0   69.25  960 984 1000 1040  540 541 544 555 doublescan +hsync -vsync (66.6 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "960x540"x59.6   40.75  960 992 1088 1216  540 543 548 562 -hsync +vsync (33.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "960x540"x59.8   37.25  960 1008 1040 1120  540 543 548 556 +hsync -vsync (33.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "800x600"x120.0   81.00  800 832 928 1080  600 600 602 625 doublescan +hsync +vsync (75.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "800x600"x56.2   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "840x525"x120.0   73.12  840 892 980 1120  525 526 529 544 doublescan -hsync +vsync (65.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "840x525"x119.8   59.50  840 864 880 920  525 526 529 540 doublescan +hsync -vsync (64.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "864x486"x59.9   32.50  864 888 968 1072  486 489 494 506 -hsync +vsync (30.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "864x486"x59.6   30.50  864 912 944 1024  486 489 494 500 +hsync -vsync (29.8 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "800x512"x120.3   51.56  800 800 828 832  512 512 514 515 doublescan +hsync +vsync (62.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "700x525"x120.0   61.00  700 744 820 940  525 526 532 541 doublescan +hsync +vsync (64.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "800x450"x119.9   59.12  800 848 928 1056  450 451 454 467 doublescan -hsync +vsync (56.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "800x450"x119.6   48.75  800 824 840 880  450 451 454 463 doublescan +hsync -vsync (55.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x512"x120.0   54.00  640 664 720 844  512 512 514 533 doublescan +hsync +vsync (64.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "720x450"x119.8   53.25  720 760 836 952  450 451 454 467 doublescan -hsync +vsync (55.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "700x450"x119.9   51.75  700 740 812 924  450 451 456 467 doublescan -hsync +vsync (56.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "700x450"x119.8   43.25  700 724 740 780  450 451 456 463 doublescan +hsync -vsync (55.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x480"x120.0   54.00  640 688 744 900  480 480 482 500 doublescan +hsync +vsync (60.0 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "720x405"x59.5   22.50  720 744 808 896  405 408 413 422 -hsync +vsync (25.1 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "720x405"x59.0   21.75  720 768 800 880  405 408 413 419 +hsync -vsync (24.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "684x384"x119.8   42.62  684 720 788 892  384 385 390 399 doublescan -hsync +vsync (47.8 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "684x384"x119.7   36.12  684 708 724 764  384 385 390 395 doublescan +hsync -vsync (47.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "680x384"x119.6   42.38  680 716 784 888  384 385 390 399 doublescan -hsync +vsync (47.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "680x384"x119.9   36.00  680 704 720 760  384 385 390 395 doublescan +hsync -vsync (47.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x400"x119.8   41.75  640 676 740 840  400 401 404 415 doublescan -hsync +vsync (49.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x400"x120.0   35.50  640 664 680 720  400 401 404 411 doublescan +hsync -vsync (49.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "576x432"x120.1   40.81  576 608 668 760  432 432 434 447 doublescan -hsync +vsync (53.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x360"x119.7   37.25  640 672 736 832  360 361 364 374 doublescan -hsync +vsync (44.8 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x360"x119.7   31.88  640 664 680 720  360 361 364 370 doublescan +hsync -vsync (44.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x360"x59.8   18.00  640 664 720 800  360 363 368 376 -hsync +vsync (22.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "640x360"x59.3   17.75  640 688 720 800  360 363 368 374 +hsync -vsync (22.2 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "512x384"x120.0   32.50  512 524 592 672  384 385 388 403 doublescan -hsync -vsync (48.4 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "512x288"x120.0   23.25  512 532 580 648  288 289 292 299 doublescan -hsync +vsync (35.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "512x288"x119.8   21.00  512 536 552 592  288 289 292 296 doublescan +hsync -vsync (35.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "480x270"x119.3   20.38  480 496 544 608  270 271 274 281 doublescan -hsync +vsync (33.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "480x270"x119.6   18.62  480 504 520 560  270 271 274 278 doublescan +hsync -vsync (33.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "400x300"x120.6   20.00  400 420 484 528  300 300 302 314 doublescan +hsync +vsync (37.9 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "400x300"x112.7   18.00  400 412 448 512  300 300 301 312 doublescan +hsync +vsync (35.2 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "432x243"x119.8   16.25  432 444 484 536  243 244 247 253 doublescan -hsync +vsync (30.3 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "432x243"x119.1   15.25  432 456 472 512  243 244 247 250 doublescan +hsync -vsync (29.8 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "320x240"x120.1   12.59  320 328 376 400  240 245 246 262 doublescan -hsync -vsync (31.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "360x202"x119.0   11.25  360 372 404 448  202 204 206 211 doublescan -hsync +vsync (25.1 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "360x202"x118.3   10.88  360 384 400 440  202 204 206 209 doublescan +hsync -vsync (24.7 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "320x180"x119.7    9.00  320 332 360 400  180 181 184 188 doublescan -hsync +vsync (22.5 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "320x180"x118.6    8.88  320 344 360 400  180 181 184 187 doublescan +hsync -vsync (22.2 kHz d)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): EDID for output VGA-1
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): EDID for output DP-1
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Output LVDS-1 connected
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Output VGA-1 disconnected
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Output DP-1 disconnected
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Using exact sizes for initial modes
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Output LVDS-1 using initial mode 1440x900 +0+0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): Using gamma correction (1.0, 1.0, 1.0)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): DPI set to (96, 96)
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading sub module "fb"
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "fb"
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/libfb.so
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module fb: vendor="X.Org Foundation"
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.13, module version = 1.0.0
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org ANSI C Emulation, version 0.4
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) UnloadModule: "fbdev"
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Unloading fbdev
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) UnloadSubModule: "fbdevhw"
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Unloading fbdevhw
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) UnloadModule: "vesa"
+Sep 27 10:22:42 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Unloading vesa
+Sep 27 10:22:43 linti-Vostro-1520 systemd[1]: NetworkManager-dispatcher.service: Succeeded.
+Sep 27 10:22:44 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): Backing store enabled
+Sep 27 10:22:44 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): Silken mouse enabled
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Initializing kms color map for depth 24, 8 bpc.
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (==) modeset(0): DPMS enabled
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): [DRI2] Setup complete
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): [DRI2]   DRI driver: i965
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): [DRI2]   VDPAU driver: va_gl
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension Generic Event Extension
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension SHAPE
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension MIT-SHM
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XInputExtension
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XTEST
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension BIG-REQUESTS
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension SYNC
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XKEYBOARD
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XC-MISC
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension SECURITY
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XFIXES
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension RENDER
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension RANDR
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension COMPOSITE
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension DAMAGE
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension MIT-SCREEN-SAVER
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension DOUBLE-BUFFER
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension RECORD
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension DPMS
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension Present
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension DRI3
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension X-Resource
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XVideo
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XVideo-MotionCompensation
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension SELinux
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) SELinux: Disabled on system
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension GLX
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) AIGLX: Loaded and initialized i965
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) GLX: Initialized DRI2 GL provider for screen 0
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XFree86-VidModeExtension
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XFree86-DGA
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension XFree86-DRI
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Initializing extension DRI2
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Damage tracking initialized
+Sep 27 10:22:45 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Setting screen physical size to 381 x 238
+Sep 27 10:22:45 linti-Vostro-1520 goa-daemon[962]: goa-daemon version 3.36.1 starting
+Sep 27 10:22:45 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.Identity' requested by ':1.9' (uid=1000 pid=962 comm="/usr/libexec/goa-daemon " label="unconfined")
+Sep 27 10:22:45 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.OnlineAccounts'
+Sep 27 10:22:45 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+Sep 27 10:22:45 linti-Vostro-1520 systemd[865]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+Sep 27 10:22:45 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:45 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Identity'
+Sep 27 10:22:45 linti-Vostro-1520 systemd[865]: Starting Virtual filesystem service - digital camera monitor...
+Sep 27 10:22:46 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+Sep 27 10:22:46 linti-Vostro-1520 systemd[865]: Started Virtual filesystem service - digital camera monitor.
+Sep 27 10:22:46 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:46 linti-Vostro-1520 systemd[865]: Starting Virtual filesystem service - Apple File Conduit monitor...
+Sep 27 10:22:46 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+Sep 27 10:22:46 linti-Vostro-1520 systemd[865]: Started Virtual filesystem service - Apple File Conduit monitor.
+Sep 27 10:22:46 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.46' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:46 linti-Vostro-1520 systemd[1]: Starting Daemon for power management...
+Sep 27 10:22:47 linti-Vostro-1520 systemd[1]: systemd-hostnamed.service: Succeeded.
+Sep 27 10:22:47 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.UPower'
+Sep 27 10:22:47 linti-Vostro-1520 systemd[1]: Started Daemon for power management.
+Sep 27 10:22:47 linti-Vostro-1520 systemd[865]: Started Tracker metadata extractor.
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Power Button (/dev/input/event3)
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) LoadModule: "libinput"
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Module libinput: vendor="X.Org Foundation"
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011compiled for 1.20.4, module version = 0.29.0
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011Module class: X.Org XInput Driver
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: #011ABI class: X.Org XInput driver, version 24.1
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'Power Button'
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event3 13:67 fd 22 paused 0
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Power Button: always reports core events
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event3"
+Sep 27 10:22:47 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.freedesktop.Tracker1' unit='tracker-store.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:22:47 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:48 linti-Vostro-1520 systemd[865]: Started Tracker file system data miner.
+Sep 27 10:22:48 linti-Vostro-1520 systemd[865]: Reached target Main User Target.
+Sep 27 10:22:48 linti-Vostro-1520 systemd[865]: Starting Tracker metadata database store and lookup manager...
+Sep 27 10:22:48 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.Tracker1'
+Sep 27 10:22:48 linti-Vostro-1520 systemd[865]: Started Tracker metadata database store and lookup manager.
+Sep 27 10:22:48 linti-Vostro-1520 systemd[865]: Startup finished in 20.779s.
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event3  - Power Button: is tagged by udev as: Keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event3  - Power Button: device is a keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event3  - Power Button: device removed
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input3/event3"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_model" "pc105"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_layout" "latam"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event3  - Power Button: is tagged by udev as: Keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event3  - Power Button: device is a keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Video Bus (/dev/input/event9)
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Video Bus: Applying InputClass "libinput keyboard catchall"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'Video Bus'
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event9 13:73 fd 25 paused 0
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Video Bus: always reports core events
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event9"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event9  - Video Bus: is tagged by udev as: Keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event9  - Video Bus: device is a keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event9  - Video Bus: device removed
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A08:00/LNXVIDEO:01/input/input11/event9"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_model" "pc105"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_layout" "latam"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event9  - Video Bus: is tagged by udev as: Keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event9  - Video Bus: device is a keyboard
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Power Button (/dev/input/event1)
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Power Button: Applying InputClass "libinput keyboard catchall"
+Sep 27 10:22:48 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'Power Button'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event1 13:65 fd 26 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Power Button: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event1"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event1  - Power Button: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event1  - Power Button: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event1  - Power Button: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0C:00/input/input1/event1"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 8)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_model" "pc105"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_layout" "latam"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event1  - Power Button: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event1  - Power Button: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Lid Switch (/dev/input/event0)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) No input driver specified, ignoring this device.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) This device may have been added with another device file.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Sleep Button (/dev/input/event2)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Sleep Button: Applying InputClass "libinput keyboard catchall"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'Sleep Button'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event2 13:66 fd 27 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Sleep Button: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event2"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event2  - Sleep Button: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event2  - Sleep Button: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event2  - Sleep Button: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input2/event2"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 9)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_model" "pc105"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_layout" "latam"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event2  - Sleep Button: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event2  - Sleep Button: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device HDA Intel Mic (/dev/input/event10)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) No input driver specified, ignoring this device.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) This device may have been added with another device file.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device HDA Intel Front Headphone (/dev/input/event11)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) No input driver specified, ignoring this device.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) This device may have been added with another device file.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device  USB OPTICAL MOUSE (/dev/input/event5)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**)  USB OPTICAL MOUSE: Applying InputClass "libinput pointer catchall"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for ' USB OPTICAL MOUSE'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event5 13:69 fd 28 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**)  USB OPTICAL MOUSE: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event5"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event5  -  USB OPTICAL MOUSE: is tagged by udev as: Mouse
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event5  -  USB OPTICAL MOUSE: device is a pointer
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event5  -  USB OPTICAL MOUSE: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:1d.0/usb6/6-1/6-1:1.0/0003:15D9:0A4F.0001/input/input7/event5"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device " USB OPTICAL MOUSE" (type: MOUSE, id 10)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "AccelerationScheme" "none"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**)  USB OPTICAL MOUSE: (accel) selected scheme none/0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**)  USB OPTICAL MOUSE: (accel) acceleration factor: 2.000
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**)  USB OPTICAL MOUSE: (accel) acceleration threshold: 4
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event5  -  USB OPTICAL MOUSE: is tagged by udev as: Mouse
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event5  -  USB OPTICAL MOUSE: device is a pointer
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device  USB OPTICAL MOUSE (/dev/input/mouse0)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) No input driver specified, ignoring this device.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) This device may have been added with another device file.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Broadcom Corp (/dev/input/event7)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Broadcom Corp: Applying InputClass "libinput keyboard catchall"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'Broadcom Corp'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event7 13:71 fd 29 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Broadcom Corp: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event7"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event7  - Broadcom Corp: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event7  - Broadcom Corp: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event7  - Broadcom Corp: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:1d.2/usb8/8-1/8-1.2/8-1.2:1.0/0003:0A5C:4502.0002/input/input8/event7"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "Broadcom Corp" (type: KEYBOARD, id 11)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_model" "pc105"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_layout" "latam"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event7  - Broadcom Corp: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event7  - Broadcom Corp: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Broadcom Corp Mouse (/dev/input/event8)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Broadcom Corp Mouse: Applying InputClass "libinput pointer catchall"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'Broadcom Corp Mouse'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event8 13:72 fd 30 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Broadcom Corp Mouse: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event8"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event8  - Broadcom Corp Mouse: is tagged by udev as: Mouse
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event8  - Broadcom Corp Mouse: device is a pointer
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event8  - Broadcom Corp Mouse: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:1d.2/usb8/8-1/8-1.3/8-1.3:1.0/0003:0A5C:4503.0003/input/input9/event8"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "Broadcom Corp Mouse" (type: MOUSE, id 12)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "AccelerationScheme" "none"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Broadcom Corp Mouse: (accel) selected scheme none/0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Broadcom Corp Mouse: (accel) acceleration factor: 2.000
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Broadcom Corp Mouse: (accel) acceleration threshold: 4
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event8  - Broadcom Corp Mouse: is tagged by udev as: Mouse
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event8  - Broadcom Corp Mouse: device is a pointer
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Broadcom Corp Mouse (/dev/input/mouse2)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) No input driver specified, ignoring this device.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) This device may have been added with another device file.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device Integrated Webcam: Integrated W (/dev/input/event12)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Integrated Webcam: Integrated W: Applying InputClass "libinput keyboard catchall"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'Integrated Webcam: Integrated W'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event12 13:76 fd 31 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Integrated Webcam: Integrated W: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event12"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event12 - Integrated Webcam: Integrated W: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event12 - Integrated Webcam: Integrated W: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event12 - Integrated Webcam: Integrated W: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/pci0000:00/0000:00:1d.7/usb2/2-2/2-2:1.0/input/input14/event12"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "Integrated Webcam: Integrated W" (type: KEYBOARD, id 13)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_model" "pc105"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_layout" "latam"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event12 - Integrated Webcam: Integrated W: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event12 - Integrated Webcam: Integrated W: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event4)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event4 13:68 fd 32 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) AT Translated Set 2 keyboard: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event4"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event4  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event4  - AT Translated Set 2 keyboard: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event4  - AT Translated Set 2 keyboard: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input4/event4"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 14)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_model" "pc105"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "xkb_layout" "latam"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event4  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event4  - AT Translated Set 2 keyboard: device is a keyboard
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device AlpsPS/2 ALPS GlidePoint (/dev/input/event6)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) AlpsPS/2 ALPS GlidePoint: Applying InputClass "libinput touchpad catchall"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) Using input driver 'libinput' for 'AlpsPS/2 ALPS GlidePoint'
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) systemd-logind: got fd for /dev/input/event6 13:70 fd 33 paused 0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) AlpsPS/2 ALPS GlidePoint: always reports core events
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "Device" "/dev/input/event6"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "_source" "server/udev"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event6  - AlpsPS/2 ALPS GlidePoint: is tagged by udev as: Touchpad
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event6  - AlpsPS/2 ALPS GlidePoint: no resolution or size hints, assuming a size of 69x50mm
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event6  - AlpsPS/2 ALPS GlidePoint: device is a touchpad
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event6  - AlpsPS/2 ALPS GlidePoint: device removed
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "config_info" "udev:/sys/devices/platform/i8042/serio1/input/input6/event6"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) XINPUT: Adding extended input device "AlpsPS/2 ALPS GlidePoint" (type: TOUCHPAD, id 15)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) Option "AccelerationScheme" "none"
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) AlpsPS/2 ALPS GlidePoint: (accel) selected scheme none/0
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) AlpsPS/2 ALPS GlidePoint: (accel) acceleration factor: 2.000
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (**) AlpsPS/2 ALPS GlidePoint: (accel) acceleration threshold: 4
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event6  - AlpsPS/2 ALPS GlidePoint: is tagged by udev as: Touchpad
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event6  - AlpsPS/2 ALPS GlidePoint: no resolution or size hints, assuming a size of 69x50mm
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) event6  - AlpsPS/2 ALPS GlidePoint: device is a touchpad
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) config/udev: Adding input device AlpsPS/2 ALPS GlidePoint (/dev/input/mouse1)
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) No input driver specified, ignoring this device.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) This device may have been added with another device file.
+Sep 27 10:22:49 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1058]: /etc/gdm3/Xsession: Beginning session setup...
+Sep 27 10:22:50 linti-Vostro-1520 colord[913]: failed to get session [pid 710]: No hay datos disponibles
+Sep 27 10:22:51 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1072]: localuser:linti being added to access control list
+Sep 27 10:22:51 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1075]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Sep 27 10:22:51 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1075]: dbus-update-activation-environment: setting DISPLAY=:0
+Sep 27 10:22:51 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1075]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Sep 27 10:22:51 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1083]: localuser:linti being added to access control list
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Received SIGRTMIN+21 from PID 316 (plymouthd).
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: plymouth-quit-wait.service: Succeeded.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Finished Hold until boot process finishes up.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Reached target Multi-User System.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Reached target Graphical Interface.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Starting Set console scheme...
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: plymouth-start.service: Succeeded.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: systemd-update-utmp-runlevel.service: Succeeded.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Finished Update UTMP about System Runlevel Changes.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Finished Set console scheme.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Created slice system-getty.slice.
+Sep 27 10:22:51 linti-Vostro-1520 systemd[1]: Startup finished in 6.745s (kernel) + 1min 12.423s (userspace) = 1min 19.169s.
+Sep 27 10:22:52 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1117]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1126]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting SHELL=/bin/bash
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting LANGUAGE=es_AR:es
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting PWD=/home/linti
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting LOGNAME=linti
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XAUTHORITY=/run/user/1000/gdm/Xauthority
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting WINDOWPATH=2
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting HOME=/home/linti
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting USERNAME=linti
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting LANG=es_AR.UTF-8
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting USER=linti
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting DISPLAY=:0
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting SHLVL=1
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting GDMSESSION=ubuntu
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+Sep 27 10:22:53 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[1130]: dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+Sep 27 10:22:56 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.19' (uid=1000 pid=1151 comm="/usr/libexec/gnome-session-check-accelerated " label="unconfined")
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Starting Accessibility services bus...
+Sep 27 10:22:56 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.a11y.Bus'
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Started Accessibility services bus.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Created slice gnome\x2dsession\x2dmanager.slice.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Started Path trigger for Avahi .local domain notifications.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Condition check resulted in Path trigger for Apport crash notifications being skipped.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Started Path trigger for new release of Ubuntu notifications.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Condition check resulted in GNOME Initial Setup Copy Worker being skipped.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Starting Start gnome-keyring as SSH agent...
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Starting Start gnome-keyring for the Secrets Service, and PKCS #11...
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Starting Monitor Session leader for GNOME Session...
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Starting Session Migration...
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Finished Start gnome-keyring as SSH agent.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Started OpenSSH Agent.
+Sep 27 10:22:56 linti-Vostro-1520 gnome-session-c[1166]: Error creating FIFO: El archivo ya existe
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: Started Monitor Session leader for GNOME Session.
+Sep 27 10:22:56 linti-Vostro-1520 systemd[865]: ssh-agent.service: Succeeded.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: session-migration.service: Succeeded.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Finished Session Migration.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: gnome-keyring.service: Succeeded.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Finished Start gnome-keyring for the Secrets Service, and PKCS #11.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Reached target Session services which should run early before the graphical session is brought up.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Reached target Tasks to be run before GNOME Session starts.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Starting GNOME Session Manager (session: ubuntu)...
+Sep 27 10:22:57 linti-Vostro-1520 gnome-keyring-pkcs11.desktop[1185]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Sep 27 10:22:57 linti-Vostro-1520 gnome-keyring-ssh.desktop[1183]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Sep 27 10:22:57 linti-Vostro-1520 gnome-keyring-secrets.desktop[1186]: SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Started GNOME Session Manager (session: ubuntu).
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Reached target GNOME Session Manager is ready.
+Sep 27 10:22:57 linti-Vostro-1520 systemd[865]: Starting GNOME Shell on X11...
+Sep 27 10:22:59 linti-Vostro-1520 systemd[865]: tracker-extract.service: Succeeded.
+Sep 27 10:22:59 linti-Vostro-1520 systemd[1]: Reloading.
+Sep 27 10:22:59 linti-Vostro-1520 systemd[1]: Mounting Mount unit for snapd, revision 17029...
+Sep 27 10:22:59 linti-Vostro-1520 kernel: [   87.113311] loop15: detected capacity change from 0 to 98272
+Sep 27 10:22:59 linti-Vostro-1520 systemd[1]: Mounted Mount unit for snapd, revision 17029.
+Sep 27 10:23:03 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): EDID vendor "AUO", prod id 9079
+Sep 27 10:23:03 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Printing DDC gathered Modelines:
+Sep 27 10:23:03 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1440x900"x0.0  108.00  1440 1504 1536 1970  900 903 906 912 +hsync -vsync (54.8 kHz eP)
+Sep 27 10:23:03 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): EDID vendor "AUO", prod id 9079
+Sep 27 10:23:03 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Printing DDC gathered Modelines:
+Sep 27 10:23:03 linti-Vostro-1520 /usr/lib/gdm3/gdm-x-session[888]: (II) modeset(0): Modeline "1440x900"x0.0  108.00  1440 1504 1536 1970  900 903 906 912 +hsync -vsync (54.8 kHz eP)
+Sep 27 10:23:06 linti-Vostro-1520 kernel: [   93.903084] audit: type=1400 audit(1664284986.439:40): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/17029/usr/lib/snapd/snap-confine" pid=1308 comm="apparmor_parser"
+Sep 27 10:23:06 linti-Vostro-1520 kernel: [   93.904511] audit: type=1400 audit(1664284986.443:41): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/17029/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1308 comm="apparmor_parser"
+Sep 27 10:23:08 linti-Vostro-1520 kernel: [   96.073094] audit: type=1400 audit(1664284988.612:42): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.snap-store" pid=1310 comm="apparmor_parser"
+Sep 27 10:23:08 linti-Vostro-1520 kernel: [   96.098724] audit: type=1400 audit(1664284988.636:43): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.hook.configure" pid=1312 comm="apparmor_parser"
+Sep 27 10:23:08 linti-Vostro-1520 kernel: [   96.130294] audit: type=1400 audit(1664284988.668:44): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.ubuntu-software" pid=1314 comm="apparmor_parser"
+Sep 27 10:23:08 linti-Vostro-1520 kernel: [   96.148082] audit: type=1400 audit(1664284988.684:45): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.snap-store" pid=1313 comm="apparmor_parser"
+Sep 27 10:23:08 linti-Vostro-1520 kernel: [   96.161031] audit: type=1400 audit(1664284988.700:46): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.ubuntu-software-local-file" pid=1315 comm="apparmor_parser"
+Sep 27 10:23:09 linti-Vostro-1520 gnome-shell[1188]: Some code accessed the property 'CredentialManager' on the module 'credentialManager'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+Sep 27 10:23:09 linti-Vostro-1520 systemd[1]: systemd-timedated.service: Succeeded.
+Sep 27 10:23:12 linti-Vostro-1520 snapd[625]: daemon.go:521: gracefully waiting for running hooks
+Sep 27 10:23:12 linti-Vostro-1520 snapd[625]: daemon.go:523: done waiting for running hooks
+Sep 27 10:23:13 linti-Vostro-1520 snapd[625]: overlord.go:504: Released state lock file
+Sep 27 10:23:13 linti-Vostro-1520 systemd[1]: snapd.service: Succeeded.
+Sep 27 10:23:13 linti-Vostro-1520 systemd[1]: snapd.service: Scheduled restart job, restart counter is at 1.
+Sep 27 10:23:13 linti-Vostro-1520 systemd[1]: Stopped Snap Daemon.
+Sep 27 10:23:13 linti-Vostro-1520 systemd[1]: Starting Snap Daemon...
+Sep 27 10:23:14 linti-Vostro-1520 snapd[1320]: AppArmor status: apparmor is enabled and all features are available
+Sep 27 10:23:14 linti-Vostro-1520 gnome-shell[1188]: Unset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.
+Sep 27 10:23:14 linti-Vostro-1520 gnome-shell[1188]: Will monitor session 1
+Sep 27 10:23:15 linti-Vostro-1520 snapd[1320]: AppArmor status: apparmor is enabled and all features are available
+Sep 27 10:23:15 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.freedesktop.portal.IBus' requested by ':1.38' (uid=1000 pid=1345 comm="ibus-daemon --panel disable --xim " label="unconfined")
+Sep 27 10:23:15 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.portal.IBus'
+Sep 27 10:23:15 linti-Vostro-1520 snapd[1320]: overlord.go:263: Acquiring state lock file
+Sep 27 10:23:15 linti-Vostro-1520 snapd[1320]: overlord.go:268: Acquired state lock file
+Sep 27 10:23:15 linti-Vostro-1520 at-spi-bus-launcher[1159]: dbus-daemon[1159]: Activating service name='org.a11y.atspi.Registry' requested by ':1.3' (uid=1000 pid=1364 comm="/usr/libexec/ibus-x11 --kill-daemon " label="unconfined")
+Sep 27 10:23:15 linti-Vostro-1520 at-spi-bus-launcher[1159]: dbus-daemon[1159]: Successfully activated service 'org.a11y.atspi.Registry'
+Sep 27 10:23:15 linti-Vostro-1520 at-spi-bus-launcher[1380]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Sep 27 10:23:15 linti-Vostro-1520 snapd[1320]: patch.go:64: Patching system state level 6 to sublevel 1...
+Sep 27 10:23:16 linti-Vostro-1520 snapd[1320]: patch.go:64: Patching system state level 6 to sublevel 2...
+Sep 27 10:23:16 linti-Vostro-1520 snapd[1320]: patch.go:64: Patching system state level 6 to sublevel 3...
+Sep 27 10:23:16 linti-Vostro-1520 snapd[1320]: daemon.go:247: started snapd/2.57.2 (series 16; classic) ubuntu/20.04 (amd64) linux/5.15.0-46-generic.
+Sep 27 10:23:16 linti-Vostro-1520 kernel: [  104.027787] loop16: detected capacity change from 0 to 8
+Sep 27 10:23:16 linti-Vostro-1520 snapd[1320]: daemon.go:340: adjusting startup timeout by 1m10s (pessimistic estimate of 30s plus 5s per snap)
+Sep 27 10:23:16 linti-Vostro-1520 systemd[1]: tmp-syscheck\x2dmountpoint\x2d353640800.mount: Succeeded.
+Sep 27 10:23:16 linti-Vostro-1520 systemd[865]: tmp-syscheck\x2dmountpoint\x2d353640800.mount: Succeeded.
+Sep 27 10:23:17 linti-Vostro-1520 kernel: [  104.606930] audit: type=1400 audit(1664284997.142:47): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/17029/usr/lib/snapd/snap-confine" pid=1403 comm="apparmor_parser"
+Sep 27 10:23:17 linti-Vostro-1520 kernel: [  104.620160] audit: type=1400 audit(1664284997.158:48): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/17029/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1403 comm="apparmor_parser"
+Sep 27 10:23:17 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.freedesktop.impl.portal.PermissionStore' unit='xdg-permission-store.service' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:23:17 linti-Vostro-1520 systemd[865]: Starting sandboxed app permission store...
+Sep 27 10:23:17 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.Shell.CalendarServer' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:23:17 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
+Sep 27 10:23:17 linti-Vostro-1520 systemd[865]: Started sandboxed app permission store.
+Sep 27 10:23:17 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gnome.evolution.dataserver.Sources5' unit='evolution-source-registry.service' requested by ':1.45' (uid=1000 pid=1408 comm="/usr/libexec/gnome-shell-calendar-server " label="unconfined")
+Sep 27 10:23:17 linti-Vostro-1520 systemd[865]: Starting Evolution source registry...
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.53' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:23:18 linti-Vostro-1520 systemd[1]: Starting Location Lookup Service...
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='ca.desrt.dconf' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'ca.desrt.dconf'
+Sep 27 10:23:18 linti-Vostro-1520 gnome-shell[1188]: Telepathy is not available, chat integration will be disabled.
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Sep 27 10:23:18 linti-Vostro-1520 systemd[1]: Started Location Lookup Service.
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.53' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:23:18 linti-Vostro-1520 systemd[1]: Starting PackageKit Daemon...
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.evolution.dataserver.Sources5'
+Sep 27 10:23:18 linti-Vostro-1520 systemd[865]: Started Evolution source registry.
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gnome.evolution.dataserver.Calendar8' unit='evolution-calendar-factory.service' requested by ':1.45' (uid=1000 pid=1408 comm="/usr/libexec/gnome-shell-calendar-server " label="unconfined")
+Sep 27 10:23:18 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Shell.CalendarServer'
+Sep 27 10:23:18 linti-Vostro-1520 systemd[865]: Starting Evolution calendar service...
+Sep 27 10:23:18 linti-Vostro-1520 PackageKit: daemon start
+Sep 27 10:23:19 linti-Vostro-1520 kernel: [  106.584986] audit: type=1400 audit(1664284999.123:49): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.snap-store" pid=1405 comm="apparmor_parser"
+Sep 27 10:23:19 linti-Vostro-1520 kernel: [  106.625643] audit: type=1400 audit(1664284999.147:50): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.hook.configure" pid=1443 comm="apparmor_parser"
+Sep 27 10:23:19 linti-Vostro-1520 kernel: [  106.626068] audit: type=1400 audit(1664284999.163:51): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.snap-store" pid=1444 comm="apparmor_parser"
+Sep 27 10:23:19 linti-Vostro-1520 kernel: [  106.640177] audit: type=1400 audit(1664284999.179:52): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.ubuntu-software" pid=1445 comm="apparmor_parser"
+Sep 27 10:23:19 linti-Vostro-1520 kernel: [  106.669609] audit: type=1400 audit(1664284999.207:53): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.snap-store.ubuntu-software-local-file" pid=1446 comm="apparmor_parser"
+Sep 27 10:23:19 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep 27 10:23:19 linti-Vostro-1520 systemd[1]: Started PackageKit Daemon.
+Sep 27 10:23:19 linti-Vostro-1520 systemd[1]: Started Snap Daemon.
+Sep 27 10:23:19 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.58' (uid=0 pid=1320 comm="/usr/lib/snapd/snapd " label="unconfined")
+Sep 27 10:23:19 linti-Vostro-1520 systemd[1]: Starting Time & Date Service...
+Sep 27 10:23:19 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Sep 27 10:23:19 linti-Vostro-1520 systemd[1]: Started Time & Date Service.
+Sep 27 10:23:19 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.freedesktop.FileManager1' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:23:20 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.Shell.Notifications' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:23:20 linti-Vostro-1520 gnome-shell[1188]: Unable to connect to ibus: No se pudo conectar: Conexión rehusada
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Shell on X11.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Shell on X11.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Session is initialized.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME session X11 services.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME X11 Session.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Session (session: ubuntu).
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting Signal initialization done to GNOME Session Manager...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Accessibility settings...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Color management...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Date & Time handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Maintenance of expirable data...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Keyboard handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Media keys handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Power management handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Printer notifications...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME RFKill handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Freedesktop screensaver handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Sharing handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Smartcard handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Sound sample caching handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME USB protection handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME Wacom handling...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME WWan management...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting GNOME XSettings...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: gnome-session-signal-init.service: Succeeded.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Finished Signal initialization done to GNOME Session Manager.
+Sep 27 10:23:20 linti-Vostro-1520 NetworkManager[609]: <info>  [1664285000.3958] agent-manager: agent[5ba1fd6f67edb209,:1.53/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Sep 27 10:23:20 linti-Vostro-1520 gnome-session-binary[1173]: Entering running state
+Sep 27 10:23:20 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Shell.Notifications'
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME WWan management.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME WWan management.
+Sep 27 10:23:20 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.evolution.dataserver.Calendar8'
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started Evolution calendar service.
+Sep 27 10:23:20 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gnome.evolution.dataserver.AddressBook10' unit='evolution-addressbook-factory.service' requested by ':1.48' (uid=1000 pid=1436 comm="/usr/libexec/evolution-calendar-factory " label="unconfined")
+Sep 27 10:23:20 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.64' (uid=1000 pid=1480 comm="/usr/libexec/gsd-rfkill " label="unconfined")
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Starting Evolution address book service...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[1]: Starting Hostname Service...
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Accessibility settings.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Accessibility settings.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME USB protection handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME USB protection handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Sharing handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Sharing handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Freedesktop screensaver handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Freedesktop screensaver handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Date & Time handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Date & Time handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Wacom handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Wacom handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Maintenance of expirable data.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Maintenance of expirable data.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Started GNOME Sound sample caching handling.
+Sep 27 10:23:20 linti-Vostro-1520 systemd[865]: Reached target GNOME Sound sample caching handling.
+Sep 27 10:23:21 linti-Vostro-1520 gnome-shell[1188]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Sep 27 10:23:21 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.69' (uid=1000 pid=1472 comm="/usr/libexec/gsd-keyboard " label="unconfined")
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Started GNOME Color management.
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Started GNOME Keyboard handling.
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Started GNOME Power management handling.
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Reached target GNOME Color management.
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Reached target GNOME Keyboard handling.
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Reached target GNOME Power management handling.
+Sep 27 10:23:21 linti-Vostro-1520 systemd[1]: Starting Locale Service...
+Sep 27 10:23:21 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep 27 10:23:21 linti-Vostro-1520 systemd[1]: Started Hostname Service.
+Sep 27 10:23:21 linti-Vostro-1520 kernel: [  108.941443] rfkill: input handler disabled
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Started GNOME Media keys handling.
+Sep 27 10:23:21 linti-Vostro-1520 systemd[865]: Started GNOME RFKill handling.
+Sep 27 10:23:21 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.locale1'
+Sep 27 10:23:21 linti-Vostro-1520 systemd[1]: Started Locale Service.
+Sep 27 10:23:22 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.evolution.dataserver.AddressBook10'
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Started GNOME Printer notifications.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Started Evolution address book service.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target GNOME Media keys handling.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target GNOME Printer notifications.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target GNOME RFKill handling.
+Sep 27 10:23:22 linti-Vostro-1520 gsd-media-keys[1477]: Failed to grab accelerator for keybinding settings:playback-random
+Sep 27 10:23:22 linti-Vostro-1520 gsd-media-keys[1477]: Failed to grab accelerator for keybinding settings:rfkill
+Sep 27 10:23:22 linti-Vostro-1520 gsd-media-keys[1477]: Failed to grab accelerator for keybinding settings:playback-repeat
+Sep 27 10:23:22 linti-Vostro-1520 gsd-media-keys[1477]: Failed to grab accelerator for keybinding settings:hibernate
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Started GNOME Smartcard handling.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target GNOME Smartcard handling.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Started GNOME XSettings.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target GNOME XSettings.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target GNOME Session.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target GNOME X11 Session (session: ubuntu).
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Reached target Current graphical user session.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Condition check resulted in GNOME Initial Setup being skipped.
+Sep 27 10:23:22 linti-Vostro-1520 systemd[865]: Condition check resulted in GNOME Welcome Tour being skipped.
+Sep 27 10:23:22 linti-Vostro-1520 colord[913]: failed to get session [pid 1468]: No hay datos disponibles
+Sep 27 10:23:23 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.freedesktop.portal.Documents' unit='xdg-document-portal.service' requested by ':1.76' (uid=1000 pid=1642 comm="/snap/bin/snap-store.ubuntu-software --gapplicatio" label="unconfined")
+Sep 27 10:23:23 linti-Vostro-1520 systemd[865]: Starting flatpak document portal service...
+Sep 27 10:23:23 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.portal.Documents'
+Sep 27 10:23:23 linti-Vostro-1520 systemd[865]: Started flatpak document portal service.
+Sep 27 10:23:23 linti-Vostro-1520 systemd[865]: Started snap.snap-store.ubuntu-software.2ad7b7a8-86e8-46bb-852c-7acbb03ca52c.scope.
+Sep 27 10:23:24 linti-Vostro-1520 systemd[865]: tmp-snap.rootfs_ZvYI8n.mount: Succeeded.
+Sep 27 10:23:24 linti-Vostro-1520 systemd[1]: tmp-snap.rootfs_ZvYI8n.mount: Succeeded.
+Sep 27 10:23:24 linti-Vostro-1520 kernel: [  112.256689] audit: type=1400 audit(1664285004.793:54): apparmor="DENIED" operation="capable" profile="/snap/snapd/17029/usr/lib/snapd/snap-confine" pid=1642 comm="snap-confine" capability=4  capname="fsetid"
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Sep 27 10:23:25 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Sep 27 10:23:27 linti-Vostro-1520 systemd[865]: snap-snapd-16292.mount: Succeeded.
+Sep 27 10:23:27 linti-Vostro-1520 systemd[1]: snap-snapd-16292.mount: Succeeded.
+Sep 27 10:23:28 linti-Vostro-1520 systemd[1]: Reloading.
+Sep 27 10:23:28 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.FileManager1'
+Sep 27 10:23:30 linti-Vostro-1520 gnome-shell[1188]: GNOME Shell started at Tue Sep 27 2022 10:23:18 GMT-0300 (-03)
+Sep 27 10:23:30 linti-Vostro-1520 gnome-shell[1188]: Registering session with GDM
+Sep 27 10:23:34 linti-Vostro-1520 kernel: [  122.018845] audit: type=1326 audit(1664285014.556:55): auid=1000 uid=1000 gid=1000 ses=2 subj=? pid=1642 comm="snap-store" exe="/snap/snap-store/558/usr/bin/snap-store" sig=0 arch=c000003e syscall=314 compat=0 ip=0x7fa7b8e9673d code=0x50000
+Sep 27 10:23:35 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.freedesktop.portal.Desktop' unit='xdg-desktop-portal.service' requested by ':1.78' (uid=1000 pid=1642 comm="/snap/snap-store/558/usr/bin/snap-store --gapplica" label="snap.snap-store.ubuntu-software (enforce)")
+Sep 27 10:23:35 linti-Vostro-1520 systemd[865]: Starting Portal service...
+Sep 27 10:23:35 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.freedesktop.impl.portal.desktop.gtk' unit='xdg-desktop-portal-gtk.service' requested by ':1.79' (uid=1000 pid=1802 comm="/usr/libexec/xdg-desktop-portal " label="unconfined")
+Sep 27 10:23:35 linti-Vostro-1520 systemd[865]: Starting Portal service (GTK+/GNOME implementation)...
+Sep 27 10:23:36 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.impl.portal.desktop.gtk'
+Sep 27 10:23:36 linti-Vostro-1520 systemd[865]: Started Portal service (GTK+/GNOME implementation).
+Sep 27 10:23:36 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.portal.Desktop'
+Sep 27 10:23:36 linti-Vostro-1520 systemd[865]: Started Portal service.
+Sep 27 10:23:37 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.78' (uid=1000 pid=1642 comm="/snap/snap-store/558/usr/bin/snap-store --gapplica" label="snap.snap-store.ubuntu-software (enforce)")
+Sep 27 10:23:37 linti-Vostro-1520 systemd[1]: Starting Firmware update daemon...
+Sep 27 10:23:39 linti-Vostro-1520 fwupd[1818]: 13:23:39:0952 FuPluginUpower       failed to query power type
+Sep 27 10:23:39 linti-Vostro-1520 fwupd[1818]: 13:23:39:0973 FuPluginTpm          failed to load eventlog: Fallo al abrir el archivo <</sys/kernel/security/tpm0/binary_bios_measurements>>: No existe el archivo o el directorio
+Sep 27 10:23:40 linti-Vostro-1520 fwupd[1818]: 13:23:40:0052 FuPluginDfu          truncated DFU interface data, no bcdDFUVersion
+Sep 27 10:23:40 linti-Vostro-1520 fwupd[1818]: 13:23:40:0052 FuPluginDfu          unable to guess initial device state from interface 0
+Sep 27 10:23:40 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.fwupd'
+Sep 27 10:23:40 linti-Vostro-1520 systemd[1]: Started Firmware update daemon.
+Sep 27 10:23:40 linti-Vostro-1520 fwupd[1818]: 13:23:40:0730 FuEngine             failed to record HSI attributes: failed to get historical attr: json-glib version too old
+Sep 27 10:23:40 linti-Vostro-1520 snap-store[1642]: plugin fwupd took 3,4 seconds to do setup
+Sep 27 10:23:40 linti-Vostro-1520 kernel: [  128.195472] audit: type=1107 audit(1664285020.732:56): pid=608 uid=103 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.DBus.Properties" member="GetAll" mask="send" name=":1.12" pid=1642 label="snap.snap-store.ubuntu-software" peer_pid=622 peer_label="unconfined"
+Sep 27 10:23:40 linti-Vostro-1520 kernel: [  128.195472]  exe="/usr/bin/dbus-daemon" sauid=103 hostname=? addr=? terminal=?'
+Sep 27 10:23:40 linti-Vostro-1520 kernel: [  128.195483] audit: type=1420 audit(1664285020.732:57): subj_apparmor=unconfined
+Sep 27 10:23:40 linti-Vostro-1520 kernel: [  128.196607] audit: type=1107 audit(1664285020.736:58): pid=608 uid=103 auid=4294967295 ses=4294967295 subj=? msg='apparmor="DENIED" operation="dbus_method_call"  bus="system" path="/org/freedesktop/PolicyKit1/Authority" interface="org.freedesktop.PolicyKit1.Authority" member="CheckAuthorization" mask="send" name=":1.12" pid=1642 label="snap.snap-store.ubuntu-software" peer_pid=622 peer_label="unconfined"
+Sep 27 10:23:40 linti-Vostro-1520 kernel: [  128.196607]  exe="/usr/bin/dbus-daemon" sauid=103 hostname=? addr=? terminal=?'
+Sep 27 10:23:40 linti-Vostro-1520 kernel: [  128.196615] audit: type=1420 audit(1664285020.736:59): subj_apparmor=unconfined
+Sep 27 10:23:42 linti-Vostro-1520 systemd[1]: Reloading.
+Sep 27 10:23:43 linti-Vostro-1520 systemd[1]: Mounting Mount unit for snap-store, revision 599...
+Sep 27 10:23:43 linti-Vostro-1520 kernel: [  130.509723] loop13: detected capacity change from 0 to 94056
+Sep 27 10:23:43 linti-Vostro-1520 systemd[1]: Mounted Mount unit for snap-store, revision 599.
+Sep 27 10:23:44 linti-Vostro-1520 systemd[865]: Starting snapd user session agent...
+Sep 27 10:23:44 linti-Vostro-1520 systemd[865]: Started snapd user session agent.
+Sep 27 10:23:48 linti-Vostro-1520 kernel: [  136.186377] audit: type=1400 audit(1664285028.721:60): apparmor="DENIED" operation="open" profile="snap.snap-store.ubuntu-software" name="/var/lib/snapd/hostfs/usr/share/gdm/greeter/applications/gnome-initial-setup.desktop" pid=1642 comm="snap-store" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Sep 27 10:23:48 linti-Vostro-1520 kernel: [  136.323523] audit: type=1400 audit(1664285028.857:61): apparmor="DENIED" operation="open" profile="snap.snap-store.ubuntu-software" name="/var/lib/snapd/hostfs/usr/share/gdm/greeter/applications/gnome-initial-setup.desktop" pid=1642 comm="snap-store" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+Sep 27 10:23:49 linti-Vostro-1520 kernel: [  136.738330] traps: snap-store[1642] general protection fault ip:7fa7b406831b sp:7fff86336090 error:0 in libxmlb.so.2.0.0[7fa7b4062000+20000]
+Sep 27 10:23:49 linti-Vostro-1520 systemd[1]: systemd-timedated.service: Succeeded.
+Sep 27 10:23:50 linti-Vostro-1520 systemd[865]: snap.snap-store.ubuntu-software.2ad7b7a8-86e8-46bb-852c-7acbb03ca52c.scope: Succeeded.
+Sep 27 10:23:51 linti-Vostro-1520 kernel: [  138.694269] audit: type=1400 audit(1664285031.229:62): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/snapd/17029/usr/lib/snapd/snap-confine" pid=1960 comm="apparmor_parser"
+Sep 27 10:23:51 linti-Vostro-1520 kernel: [  138.694281] audit: type=1400 audit(1664285031.229:63): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="/snap/snapd/17029/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1960 comm="apparmor_parser"
+Sep 27 10:23:51 linti-Vostro-1520 systemd[1]: systemd-hostnamed.service: Succeeded.
+Sep 27 10:23:51 linti-Vostro-1520 kernel: [  139.196167] audit: type=1400 audit(1664285031.733:64): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.snap-store.hook.configure" pid=1963 comm="apparmor_parser"
+Sep 27 10:23:52 linti-Vostro-1520 systemd[1]: systemd-localed.service: Succeeded.
+Sep 27 10:23:53 linti-Vostro-1520 kernel: [  140.675234] audit: type=1400 audit(1664285033.209:65): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.snap-store.snap-store" pid=1966 comm="apparmor_parser"
+Sep 27 10:23:53 linti-Vostro-1520 kernel: [  140.784084] audit: type=1400 audit(1664285033.318:66): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap-update-ns.snap-store" pid=1962 comm="apparmor_parser"
+Sep 27 10:23:54 linti-Vostro-1520 kernel: [  141.965253] audit: type=1400 audit(1664285034.502:67): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.snap-store.ubuntu-software" pid=1969 comm="apparmor_parser"
+Sep 27 10:23:54 linti-Vostro-1520 kernel: [  142.116021] audit: type=1400 audit(1664285034.650:68): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.snap-store.ubuntu-software-local-file" pid=1970 comm="apparmor_parser"
+Sep 27 10:23:55 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.freedesktop.Tracker1.Miner.Extract' unit='tracker-extract.service' requested by ':1.2' (uid=1000 pid=875 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Sep 27 10:23:55 linti-Vostro-1520 systemd[865]: Starting Tracker metadata extractor...
+Sep 27 10:23:55 linti-Vostro-1520 tracker-extract[1975]: Set scheduler policy to SCHED_IDLE
+Sep 27 10:23:55 linti-Vostro-1520 tracker-extract[1975]: Setting priority nice level to 19
+Sep 27 10:23:55 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.freedesktop.Tracker1.Miner.Extract'
+Sep 27 10:23:55 linti-Vostro-1520 systemd[865]: Started Tracker metadata extractor.
+Sep 27 10:23:55 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.82' (uid=1000 pid=1975 comm="/usr/libexec/tracker-extract " label="unconfined")
+Sep 27 10:23:55 linti-Vostro-1520 systemd[865]: Starting Virtual filesystem metadata service...
+Sep 27 10:23:55 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gtk.vfs.Metadata'
+Sep 27 10:23:55 linti-Vostro-1520 systemd[865]: Started Virtual filesystem metadata service.
+Sep 27 10:23:57 linti-Vostro-1520 systemd[1]: snap-snap\x2dstore-547.mount: Succeeded.
+Sep 27 10:23:57 linti-Vostro-1520 systemd[865]: snap-snap\x2dstore-547.mount: Succeeded.
+Sep 27 10:23:57 linti-Vostro-1520 systemd[1]: Reloading.
+Sep 27 10:23:58 linti-Vostro-1520 systemd[1]: Started snap.snap-store.hook.configure.6a56b23f-d3a4-40e9-bb9d-e6b6ab79bfc7.scope.
+Sep 27 10:24:05 linti-Vostro-1520 systemd[1]: snap.snap-store.hook.configure.6a56b23f-d3a4-40e9-bb9d-e6b6ab79bfc7.scope: Succeeded.
+Sep 27 10:24:05 linti-Vostro-1520 systemd[865]: tracker-extract.service: Succeeded.
+Sep 27 10:24:06 linti-Vostro-1520 snapd[1320]: storehelpers.go:748: cannot refresh: snap has no updates available: "snap-store", "snapd"
+Sep 27 10:24:14 linti-Vostro-1520 snap[1924]: session_agent.go:329: read unix @->/run/user/1000/bus: use of closed network connection
+Sep 27 10:24:14 linti-Vostro-1520 systemd[865]: snapd.session-agent.service: Succeeded.
+Sep 27 10:24:18 linti-Vostro-1520 geoclue[1423]: Service not used for 60 seconds. Shutting down..
+Sep 27 10:24:18 linti-Vostro-1520 systemd[1]: geoclue.service: Succeeded.
+Sep 27 10:24:24 linti-Vostro-1520 systemd[865]: Started Application launched by gnome-shell.
+Sep 27 10:24:25 linti-Vostro-1520 tracker-store[1047]: OK
+Sep 27 10:24:25 linti-Vostro-1520 systemd[865]: tracker-store.service: Succeeded.
+Sep 27 10:24:32 linti-Vostro-1520 gnome-shell[2070]: [GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+Sep 27 10:24:32 linti-Vostro-1520 gnome-shell[2070]: ATTENTION: default value of option mesa_glthread overridden by environment.
+Sep 27 10:24:35 linti-Vostro-1520 rtkit-daemon[882]: Supervising 3 threads of 1 processes of 1 users.
+Sep 27 10:24:35 linti-Vostro-1520 rtkit-daemon[882]: message repeated 5 times: [ Supervising 3 threads of 1 processes of 1 users.]
+Sep 27 10:24:35 linti-Vostro-1520 rtkit-daemon[882]: Successfully made thread 2254 of process 2070 owned by '1000' RT at priority 10.
+Sep 27 10:24:35 linti-Vostro-1520 rtkit-daemon[882]: Supervising 4 threads of 2 processes of 1 users.
+Sep 27 10:24:38 linti-Vostro-1520 rtkit-daemon[882]: message repeated 4 times: [ Supervising 4 threads of 2 processes of 1 users.]
+Sep 27 10:24:39 linti-Vostro-1520 gnome-shell[2070]: Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+Sep 27 10:24:39 linti-Vostro-1520 rtkit-daemon[882]: Supervising 4 threads of 2 processes of 1 users.
+Sep 27 10:25:44 linti-Vostro-1520 rtkit-daemon[882]: message repeated 5 times: [ Supervising 4 threads of 2 processes of 1 users.]
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 31 with keysym 31 (keycode a).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 32 with keysym 32 (keycode b).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 33 with keysym 33 (keycode c).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 34 with keysym 34 (keycode d).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 38 with keysym 38 (keycode 11).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 39 with keysym 39 (keycode 12).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 35 with keysym 35 (keycode e).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 36 with keysym 36 (keycode f).
+Sep 27 10:25:47 linti-Vostro-1520 gnome-shell[1188]: Window manager warning: Overwriting existing binding of keysym 37 with keysym 37 (keycode 10).
+Sep 27 10:27:04 linti-Vostro-1520 anacron[602]: Job `cron.daily' started
+Sep 27 10:27:05 linti-Vostro-1520 anacron[2462]: Updated timestamp for job `cron.daily' to 2022-09-27
+Sep 27 10:27:05 linti-Vostro-1520 cracklib: no dictionary update necessary.
+Sep 27 10:27:06 linti-Vostro-1520 anacron[602]: Job `cron.daily' terminated
+Sep 27 10:27:06 linti-Vostro-1520 anacron[602]: Normal exit (1 job run)
+Sep 27 10:27:06 linti-Vostro-1520 systemd[1]: anacron.service: Succeeded.
+Sep 27 10:28:24 linti-Vostro-1520 PackageKit: daemon quit
+Sep 27 10:28:24 linti-Vostro-1520 systemd[1]: packagekit.service: Succeeded.
+Sep 27 10:30:01 linti-Vostro-1520 CRON[2536]: (root) CMD ([ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi)
+Sep 27 10:30:15 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.Nautilus' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:30:15 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Nautilus'
+Sep 27 10:30:16 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.93' (uid=1000 pid=2540 comm="/usr/bin/nautilus --gapplication-service " label="unconfined")
+Sep 27 10:30:16 linti-Vostro-1520 systemd[1]: Starting Hostname Service...
+Sep 27 10:30:16 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Sep 27 10:30:16 linti-Vostro-1520 systemd[1]: Started Hostname Service.
+Sep 27 10:30:16 linti-Vostro-1520 nautilus[2540]: Called "net usershare info" but it failed: Falló al ejecutar el proceso hijo «net» (No such file or directory)
+Sep 27 10:30:21 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.gedit' requested by ':1.89' (uid=1000 pid=2540 comm="/usr/bin/nautilus --gapplication-service " label="unconfined")
+Sep 27 10:30:21 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.gedit'
+Sep 27 10:30:33 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.ControlCenter.SearchProvider' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:30:33 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.Calculator.SearchProvider' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:30:33 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.Calendar' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:30:33 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.Characters.BackgroundService' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:30:33 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating service name='org.gnome.seahorse.Application' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:30:33 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.37' (uid=1000 pid=1188 comm="/usr/bin/gnome-shell " label="unconfined")
+Sep 27 10:30:33 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.ControlCenter.SearchProvider'
+Sep 27 10:30:33 linti-Vostro-1520 systemd[865]: Created slice apps.slice.
+Sep 27 10:30:33 linti-Vostro-1520 systemd[865]: Created slice apps-org.gnome.Terminal.slice.
+Sep 27 10:30:33 linti-Vostro-1520 systemd[865]: Starting GNOME Terminal Server...
+Sep 27 10:30:34 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.seahorse.Application'
+Sep 27 10:30:34 linti-Vostro-1520 nautilus[2540]: Source ID 2505 was not found when attempting to remove it
+Sep 27 10:30:34 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.95' (uid=1000 pid=2587 comm="/usr/bin/gnome-calendar --gapplication-service " label="unconfined")
+Sep 27 10:30:34 linti-Vostro-1520 nautilus[2540]: Source ID 2510 was not found when attempting to remove it
+Sep 27 10:30:34 linti-Vostro-1520 systemd[1]: Starting Time & Date Service...
+Sep 27 10:30:34 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Characters.BackgroundService'
+Sep 27 10:30:34 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Terminal'
+Sep 27 10:30:34 linti-Vostro-1520 systemd[865]: Started GNOME Terminal Server.
+Sep 27 10:30:34 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Sep 27 10:30:34 linti-Vostro-1520 systemd[1]: Started Time & Date Service.
+Sep 27 10:30:34 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Calendar'
+Sep 27 10:30:34 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Calculator.SearchProvider'
+Sep 27 10:30:34 linti-Vostro-1520 gnome-calculato[2585]: search-provider.vala:140: Failed to spawn Calculator: El proceso hijo terminado por la señal 9
+Sep 27 10:30:34 linti-Vostro-1520 gnome-calculato[2585]: message repeated 2 times: [ search-provider.vala:140: Failed to spawn Calculator: El proceso hijo terminado por la señal 9]
+Sep 27 10:30:34 linti-Vostro-1520 systemd[865]: Started Application launched by gnome-shell.
+Sep 27 10:30:42 linti-Vostro-1520 code.desktop[2697]: [2697:0927/103042.795815:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+Sep 27 10:30:44 linti-Vostro-1520 systemd[865]: gnome-terminal-server.service: Succeeded.
+Sep 27 10:30:45 linti-Vostro-1520 code.desktop[2640]: #033[90m[main 2022-09-27T13:30:45.616Z]#033[0m update#setState idle
+Sep 27 10:30:46 linti-Vostro-1520 systemd[1]: systemd-hostnamed.service: Succeeded.
+Sep 27 10:30:52 linti-Vostro-1520 code.desktop[2640]: #033[90m[main 2022-09-27T13:30:52.806Z]#033[0m Starting extension host with pid 2761 (fork() took 46 ms).
+Sep 27 10:31:03 linti-Vostro-1520 code.desktop[2697]: [2697:0927/103103.152108:ERROR:gl_utils.cc(315)] [GroupMarkerNotSet(crbug.com/242999)!:B8B89302142D0000] GL_INVALID_ENUM: Invalid pname.
+Sep 27 10:31:03 linti-Vostro-1520 code.desktop[2697]: [2697:0927/103103.153210:ERROR:gl_utils.cc(315)] [GroupMarkerNotSet(crbug.com/242999)!:B8B89302142D0000] GL_INVALID_ENUM: Invalid pname.
+Sep 27 10:31:03 linti-Vostro-1520 code.desktop[2697]: [2697:0927/103103.153566:ERROR:context_group.cc(186)] ContextResult::kFatalFailure: ES3 is blocklisted/disabled/unsupported by driver.
+Sep 27 10:31:04 linti-Vostro-1520 systemd[1]: systemd-timedated.service: Succeeded.
+Sep 27 10:31:10 linti-Vostro-1520 code.desktop[2774]: (node:2774) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Sep 27 10:31:10 linti-Vostro-1520 code.desktop[2774]: (Use `exe --trace-deprecation ...` to show where the warning was created)
+Sep 27 10:31:15 linti-Vostro-1520 code.desktop[2640]: #033[90m[main 2022-09-27T13:31:15.621Z]#033[0m update#setState checking for updates
+Sep 27 10:31:15 linti-Vostro-1520 code.desktop[2640]: #033[90m[main 2022-09-27T13:31:15.638Z]#033[0m update#setState available for download
+Sep 27 10:31:33 linti-Vostro-1520 systemd[1]: Started Run anacron jobs.
+Sep 27 10:31:33 linti-Vostro-1520 anacron[3086]: Anacron 2.3 started on 2022-09-27
+Sep 27 10:31:33 linti-Vostro-1520 anacron[3086]: Normal exit (0 jobs run)
+Sep 27 10:31:33 linti-Vostro-1520 systemd[1]: anacron.service: Succeeded.
+Sep 27 10:34:28 linti-Vostro-1520 systemd[1]: Starting Ubuntu Advantage Timer for running repeated jobs...
+Sep 27 10:34:28 linti-Vostro-1520 systemd[1]: ua-timer.service: Succeeded.
+Sep 27 10:34:28 linti-Vostro-1520 systemd[1]: Finished Ubuntu Advantage Timer for running repeated jobs.
+Sep 27 10:34:58 linti-Vostro-1520 rtkit-daemon[882]: Supervising 4 threads of 2 processes of 1 users.
+Sep 27 10:35:40 linti-Vostro-1520 rtkit-daemon[882]: message repeated 7 times: [ Supervising 4 threads of 2 processes of 1 users.]
+Sep 27 10:36:34 linti-Vostro-1520 systemd[1]: Starting Cleanup of Temporary Directories...
+Sep 27 10:36:34 linti-Vostro-1520 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Sep 27 10:36:34 linti-Vostro-1520 systemd[1]: Finished Cleanup of Temporary Directories.
+Sep 27 10:41:41 linti-Vostro-1520 systemd[1]: Starting Daily apt upgrade and clean activities...
+Sep 27 10:41:46 linti-Vostro-1520 systemd[865]: Started Application launched by gnome-shell.
+Sep 27 10:41:47 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Activating via systemd: service name='org.gnome.Terminal' unit='gnome-terminal-server.service' requested by ':1.148' (uid=1000 pid=3531 comm="/usr/bin/gnome-terminal.real --window " label="unconfined")
+Sep 27 10:41:47 linti-Vostro-1520 systemd[865]: Starting GNOME Terminal Server...
+Sep 27 10:41:48 linti-Vostro-1520 dbus-daemon[892]: [session uid=1000 pid=892] Successfully activated service 'org.gnome.Terminal'
+Sep 27 10:41:48 linti-Vostro-1520 systemd[865]: Started GNOME Terminal Server.
+Sep 27 10:41:48 linti-Vostro-1520 systemd[865]: Started VTE child process 3542 launched by gnome-terminal-server process 3534.
+Sep 27 10:41:48 linti-Vostro-1520 systemd[865]: gnome-launched-org.gnome.Terminal.desktop-3529.scope: Succeeded.
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1438.629772] SGI XFS with ACLs, security attributes, realtime, quota, no debug enabled
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1438.755485] JFS: nTxBlock = 8192, nTxLock = 65536
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1438.812391] ntfs: driver 2.1.32 [Flags: R/O MODULE].
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1439.003798] QNX4 filesystem 0.2.3 registered.
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1439.172023] raid6: sse2x4   gen()  6077 MB/s
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1439.240022] raid6: sse2x4   xor()  3024 MB/s
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1439.308025] raid6: sse2x2   gen()  6021 MB/s
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1439.376025] raid6: sse2x2   xor()  3532 MB/s
+Sep 27 10:45:31 linti-Vostro-1520 kernel: [ 1439.444036] raid6: sse2x1   gen()  6169 MB/s
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.512022] raid6: sse2x1   xor()  4393 MB/s
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.512030] raid6: using algorithm sse2x1 gen() 6169 MB/s
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.512032] raid6: .... xor() 4393 MB/s, rmw enabled
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.512035] raid6: using ssse3x2 recovery algorithm
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.651911] xor: measuring software checksum speed
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.652795]    prefetch64-sse  : 12428 MB/sec
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.653747]    generic_sse     : 10677 MB/sec
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.653749] xor: using function: prefetch64-sse (12428 MB/sec)
+Sep 27 10:45:32 linti-Vostro-1520 kernel: [ 1439.829139] Btrfs loaded, crc32c=crc32c-generic, zoned=yes, fsverity=yes
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/05efi on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 05efi: debug: Not on UEFI platform
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/10freedos on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 10freedos: debug: /dev/sda1 is a FAT32 partition
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/10qnx on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 10qnx: debug: /dev/sda1 is not a QNX4 partition: exiting
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/20macosx on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 macosx-prober: debug: /dev/sda1 is not an HFS+ partition: exiting
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/20microsoft on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 20microsoft: debug: /dev/sda1 is a FAT32 partition
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/30utility on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 30utility: debug: /dev/sda1 is a FAT32 partition
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/40lsb on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/70hurd on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/80minix on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/83haiku on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 83haiku: debug: /dev/sda1 is not a BeFS partition: exiting
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/90linux-distro on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/mounted/90solaris on mounted /dev/sda1
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: running /usr/lib/os-probes/50mounted-tests on /dev/sda2
+Sep 27 10:45:32 linti-Vostro-1520 50mounted-tests: debug: /dev/sda2 type not recognised; skipping
+Sep 27 10:45:32 linti-Vostro-1520 os-prober: debug: os detected by /usr/lib/os-probes/50mounted-tests
+Sep 27 10:45:34 linti-Vostro-1520 dbus-daemon[608]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.106' (uid=0 pid=12017 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Sep 27 10:45:34 linti-Vostro-1520 systemd[1]: Starting PackageKit Daemon...
+Sep 27 10:45:34 linti-Vostro-1520 PackageKit: daemon start
+Sep 27 10:45:35 linti-Vostro-1520 dbus-daemon[608]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Sep 27 10:45:35 linti-Vostro-1520 systemd[1]: Started PackageKit Daemon.
